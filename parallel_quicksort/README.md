@@ -23,7 +23,7 @@ The algorithm successfully scaled across 32 cores, maintaining load balance whil
 ![Scaling Results](./assets/strong_scaling_speedup.png)
 *Figure: Strong scaling speedup identifying the NUMA drop-off* 
 
-![Scaling Results](./assets/weak_scaling_speedup.png)
+![Scaling Results](./assets/weak_scaling_efficiency.png)
 *Figure: Weak scaling efficiency comparing pivot strategies.*
 
 ### 📂 Files
