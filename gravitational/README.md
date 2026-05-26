@@ -21,7 +21,7 @@ Simulating a galaxy of particles requires computing the gravitational force betw
 ### 🚀 Results
 *(Insert your scaling graphs here showing the baseline $\mathcal{O}(N^2)$ curve, followed by the flattened execution times achieved via Pthreads/OpenMP).*
 
-![Sequential Profiling](./assets/sequential.png)
+![Sequential Profiling](./assets/sequential_ordern2.png)
 ![PThreads parallelisation](./assets/pthreads.png)
 ![OpenMP parallelisation](./assets/openmp.png)
 
